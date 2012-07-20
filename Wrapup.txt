@@ -1,0 +1,6 @@
+Things that still need to be accomplished:
+
+1) Campbell terminal still crashes when attempting to interface with raw serial out of Mote. Contact Campbell to see if this communication issue can be resolved.
+2) Write application to log serial data and deliminate based off of stop bits in serial string.
+3) Activate and interface with serial modem.
+4) Set up TCP/IP or FTP communication with server.
